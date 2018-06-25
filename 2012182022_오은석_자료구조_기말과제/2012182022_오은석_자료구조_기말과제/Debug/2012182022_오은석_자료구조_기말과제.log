@@ -1,0 +1,47 @@
+﻿  주차장관리프로그램.cpp
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(209): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(260): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(264): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(276): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(279): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(339): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(353): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(410): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(424): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(437): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(450): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(462): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(464): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(465): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(472): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(485): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(498): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(84): warning C4715: 'Psearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\user\desktop\2012182022_오은석_자료구조_기말과제\2012182022_오은석_자료구조_기말과제\주차장관리프로그램.cpp(242): warning C4715: 'fee': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2012182022_오은석_자료구조_기말과제.vcxproj -> C:\Users\user\Desktop\2012182022_오은석_자료구조_기말과제\Debug\2012182022_오은석_자료구조_기말과제.exe
+  2012182022_오은석_자료구조_기말과제.vcxproj -> C:\Users\user\Desktop\2012182022_오은석_자료구조_기말과제\Debug\2012182022_오은석_자료구조_기말과제.pdb (Full PDB)
